@@ -22,6 +22,7 @@ import com.nineoldandroids.view.ViewHelper;
 
 /**
  * Warning: This example does not work on Android 2.3.
+ * 这个就是冯翔选中的效果啦.
  */
 public class FillGap2ListViewActivity extends FillGap2BaseActivity<ObservableListView> implements ObservableScrollViewCallbacks {
 
